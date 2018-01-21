@@ -1,0 +1,28 @@
+{
+  "name": "homebridge-tv-cmd",
+  "version": "0.0.1",
+  "description": "Plan to add Channel Characteristics with command. Currently th
+is is testing version.",
+  "main": "index.js",
+  "dependencies": {
+    "bignum": "^0.12.5",
+    "mdns": "^2.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsug1125/homebridge-tv-cmd.git"
+  },
+  "keywords": [
+    "homebridge-tv-cmd"
+  ],
+  "author": "rsug1125",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsug1125/homebridge-tv-cmd/issues"
+  },
+  "homepage": "https://github.com/rsug1125/homebridge-tv-cmd"
+}
