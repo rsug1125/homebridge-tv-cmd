@@ -13,7 +13,6 @@ is is testing version.",
     "homebridge-tv-cmd"
   ],
   "author": "rsug1125",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/rsug1125/homebridge-tv-cmd/issues"
   },
